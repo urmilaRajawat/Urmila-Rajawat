@@ -37,9 +37,3 @@ Let's connect and explore the power of data together!
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/1x/power-bi.png" alt="powerbi" width="40" height="40"/>
 </a>
-
-<h3 align="left">My Github Stats:</h3>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urmilaRajawat&" alt="urmilaRajawat" /></p>
