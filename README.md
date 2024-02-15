@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Urmila Rajawat :blue_heart: </h1>
+<h1 align="center">Hey everyone 👋, I'm Urmila Rajawat :blue_heart: </h1>
 <h3 align="center">Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -6,15 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmilaRajawat&label=Profile%20views&color=0e75b6&style=flat" alt="urmilaRajawat" /> </p>
 
 ## About Me <br>
-I'm embarking on a career in the data domain, eagerly seeking opportunities to apply my skills. 
+🎓 MSc. in Mathematics | Data Enthusiast 📊
 
+A mathematician with a love for data!
+Equipped with a solid foundation in mathematical concepts, I am now diving into the world of data analytics. Proficient in statistical analysis and currently mastering tools like Python and SQL.
+My advanced mathematical background equips me to approach data analytics with a unique perspective.
 
-- 🔭 I’m currently working on **upskilling my data analyst skills.**
+Excited to contribute my analytical skills to real-world challenges in a data-driven environment.
 
-- 💬 Ask me about **Python, SQL, and Power BI.**
-@@ -14,17 +18,29 @@
+Let's connect and explore the power of data together!
 
-- ⚡ Fun fact **When science meets data, that's where you'll find me! 🧪📊**
+- 💬 I am working on **Python, SQL, Excel and Power BI.**
 
 <h3 align="left">Skills:</h3>
 
