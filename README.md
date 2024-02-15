@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone 👋, I'm Urmila Rajawat :blue_heart: </h1>
+<h1 align="center">Hello everyone 👋, I'm Urmila Rajawat :blue_heart: </h1>
 <h3 align="center">Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -16,7 +16,7 @@ Excited to contribute my analytical skills to real-world challenges in a data-dr
 
 Let's connect and explore the power of data together!
 
-- 💬 I am working on **Python, SQL, Excel and Power BI.**
+- 💬 I am working on **SQL, Python, Excel and Power BI.**
 
 <h3 align="left">Skills:</h3>
 
